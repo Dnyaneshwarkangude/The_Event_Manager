@@ -1,4 +1,5 @@
-# The Event Manager is a modern event management application that allows users to effortlessly manage and pre-book various events. By registering themselves, users can manage their events. The platform seamlessly integrates React.js for the frontend and Spring Boot for the backend with MySql as Database offering a responsive and intuitive user interface.
+# The Event Manager 
+## The Event Manager is a modern event management application that allows users to effortlessly manage and pre-book various events. By registering themselves, users can manage their events. The platform seamlessly integrates React.js for the frontend and Spring Boot for the backend with MySql as Database offering a responsive and intuitive user interface.
  
 ## Available Scripts
 
