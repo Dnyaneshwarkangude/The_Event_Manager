@@ -1,7 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# The Event Manager is a modern event management application that allows users to effortlessly manage and pre-book various events. By registering themselves, users can manage their events. The platform seamlessly integrates React.js for the frontend and Spring Boot for the backend with MySql as Database offering a responsive and intuitive user interface.
+ 
 ## Available Scripts
 
 In the project directory, you can run:
